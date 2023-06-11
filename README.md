@@ -3,4 +3,4 @@ This repository contains all implemented codes including data preprocessing and 
 
 
 
-The dataset is available in https://lab.stc.com.sa/dataset/en/
+The dataset is available at https://lab.stc.com.sa/dataset/en/
