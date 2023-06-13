@@ -3,3 +3,6 @@ This repository contains all implemented codes, including data preprocessing and
 
 
 The dataset is available at https://lab.stc.com.sa/dataset/en/
+
+
+The data has been preprocessed in stc_TV_Data_PreprocessingXFeature_Engineering.ipynb , then we used it in the models
